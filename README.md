@@ -16,3 +16,4 @@ Manage your Windows server remotely through Discord robots.
 - [ ] ANSI编码在某些电脑上可能无法工作
 - [ ] 可能会将机器人本体发送的消息传给cmd
 - [ ] 在进入cmd模式后，在其他频道发送消息也会被机器人回应
+- [ ] 在输出超长内容时无错误处理
