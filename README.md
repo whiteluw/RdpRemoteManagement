@@ -1,5 +1,7 @@
 # RdpRemoteManagement  
 通过Discord机器人来远程管理你的Windows服务器。  
+Manage your Windows server remotely through Discord robots.  
+
 `/startcmd` 进入远程cmd模式  
 `/stopcmd` 退出远程cmd模式  
 ~~`/getfile <路径>` 远程获取指定路径文件~~  
