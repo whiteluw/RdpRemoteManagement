@@ -17,3 +17,4 @@ Manage your Windows server remotely through Discord robots.
 - [ ] 可能会将机器人本体发送的消息传给cmd
 - [ ] 在进入cmd模式后，在其他频道发送消息也会被机器人回应
 - [ ] 在输出超长内容时无错误处理
+- [ ] 在执行`start`类命令时会显示执行超时，但确实命令被执行
